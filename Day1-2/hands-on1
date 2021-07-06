@@ -1,0 +1,15 @@
+
+1. prime number
+2. factorial
+3. Write a Python program to print all natural numbers in reverse (from n to 1).
+4. Write a Python program to print multiplication table of any number.
+5. Write a Python program to count number of digits in a number.
+6. reverse order of words in string
+7. pallindrome string
+8. every letter after . should be capitalized
+
+9. Write a menu driven progran to create a employee database to perform CRUD operations. [Hint: use dict with emp_id as key and list of dict as value]
+
+10. CRUD operations on file.. student data in a file.. read, edit, search, delete operations on file data
+
+11. Using yield/generator. W.a.p to generate fibonacci series using yield.
