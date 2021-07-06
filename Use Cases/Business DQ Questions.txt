@@ -1,0 +1,8 @@
+1. Generata Boxplot,Histopgram   Missing data ,as well as oreginal data 
+2. find oout MEan,median,Mode,harmean,Geomean see the averages anc conclude it?
+3. create DQ and std findout, Data quality of all the variables ?
+4 if data quality is not good generate Zscore for finding Outlier , then heilighted outlier >+-1.96
+5. apply above  statistical tech for Both FAT_Good data and FAT_Bad data 
+6.apply distbuion techniques identify wheter s skwed or kurtosys data 
+7.Estimte Body_Fat mean with 95% CI
+8,Esmtime  Chest_Area_cholostral with 99% CI 

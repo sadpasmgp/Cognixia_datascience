@@ -1,0 +1,151 @@
+Name,Age,Gender,Educational status,Religion,Mothers education,family head,Occupation,Family income,Socio economic s,Place of residence,Type of family,BDI Sum Score,PD,GAD,SA,SAD,SSA,Total Scared,
+R Anitha,17,Female,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,979-2936,Upper lower (5-10),Rural,Extended,39,4,4,3,1,4,16,Severe depression
+Anasuya,17,Female,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,979-2936,Upper lower (5-10),Rural,Extended,26,2,4,7,5,1,19,Moderate depression
+K Sridevi,17,Female,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,979-2936,Upper lower (5-10),Rural,Extended,27,5,7,6,7,3,28,Moderate depression
+S Harish,17,Male,Class 12,Hindu,High school,High school,Clerical/Shop Owner/Farmer,4894-7322,Lower middle (11-15),Rural,Nuclear,10,3,0,0,0,1,4,These ups n downs normal
+Bhavana,17,Female,Class 12,Hindu,Illiterate,Primary school,Skilled,979-2936,Upper lower (5-10),Rural,Nuclear,34,16,18,12,14,6,66,Severe depression
+Mohd Ilyas,17,Male,Class 12,Muslim,High school,Illiterate,Clerical/Shop Owner/Farmer,2936-4893,Upper lower (5-10),Rural,Nuclear,14,2,1,0,1,0,4,Mild mood disturbances
+Mohd Asrarut,16,Male,Class 12,Muslim,High school,Graduate/PG,Semi Professional,.>19575,Upper middle (16-25),Rural,Nuclear,14,7,8,4,2,4,25,Mild mood disturbances
+Sunil kumar,17,Male,Class 12,Hindu,Primary school,Graduate/PG,Semi Professional,.>19575,Upper middle (16-25),Rural,Nuclear,5,6,8,6,12,0,32,These ups n downs normal
+Achutha redd,18,Male,Class 12,Hindu,Middle school,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,9788-19574,Upper middle (16-25),Rural,Nuclear,17,4,7,1,0,1,13,Borderline clinical depression
+Yangel Ramu,17,Male,Class 12,Hindu,Primary school,Primary school,Unemployed,979-2936,Upper lower (5-10),Rural,Nuclear,19,7,7,2,5,2,23,Borderline clinical depression
+Mohd Samiudd,16,Male,Class 12,Muslim,Middle school,Middle school,Semi skilled,2936-4893,Upper lower (5-10),Rural,Joint,8,4,8,4,5,1,22,These ups n downs normal
+Md Aqeel mad,16,Male,Class 12,Muslim,Middle school,Middle school,Skilled,2936-4893,Upper lower (5-10),Rural,Nuclear,9,4,4,2,6,1,17,These ups n downs normal
+Sayed Md You,17,Male,Class 12,Muslim,Middle school,Middle school,Skilled,979-2936,Upper lower (5-10),Rural,Joint,9,4,4,3,4,1,16,These ups n downs normal
+Revathi,17,Female,Class 12,Hindu,Illiterate,High school,Skilled,979-2936,Upper lower (5-10),Rural,Extended,6,5,5,6,5,4,25,These ups n downs normal
+Gowthami,17,Female,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,2936-4893,Upper lower (5-10),Rural,Nuclear,28,6,4,2,3,2,17,Moderate depression
+Bhanusri,17,Female,Class 12,Hindu,Illiterate,Illiterate,Skilled,2936-4893,Upper lower (5-10),Rural,Nuclear,28,7,5,3,4,3,22,Moderate depression
+Vijaylaxmi,16,Female,Class 12,Hindu,High school,High school,Clerical/Shop Owner/Farmer,7323-9787,Lower middle (11-15),Rural,Nuclear,21,10,12,11,8,1,42,Moderate depression
+Hema latha,16,Female,Class 12,Hindu,High school,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,4894-7322,Lower middle (11-15),Rural,Nuclear,21,5,11,8,10,1,35,Moderate depression
+Shahista far,16,Female,Class 12,Muslim,Plus two/Post High School/Diploma,Graduate/PG,Professional,9788-19574,Upper (26-29),Rural,Nuclear,27,5,11,11,9,2,38,Moderate depression
+Bharathi,17,Female,Class 12,Hindu,Illiterate,High school,Clerical/Shop Owner/Farmer,979-2936,Lower middle (11-15),Rural,Joint,25,10,12,8,11,3,44,Moderate depression
+Bheemamma,15,Female,Class 12,Hindu,Illiterate,Illiterate,Semi skilled,979-2936,Upper lower (5-10),Rural,Nuclear,25,10,14,10,9,3,46,Moderate depression
+Manjula,17,Female,Class 12,Hindu,Illiterate,High school,Clerical/Shop Owner/Farmer,979-2936,Lower middle (11-15),Rural,Joint,28,5,9,6,9,1,30,Moderate depression
+Jayamma,18,Female,Class 12,Hindu,Primary school,Primary school,Semi skilled,979-2936,Upper lower (5-10),Rural,Extended,28,10,11,6,5,4,36,Moderate depression
+Vandana,18,Female,Class 12,Hindu,Primary school,Middle school,Semi skilled,979-2936,Upper lower (5-10),Rural,Nuclear,38,10,6,9,7,5,37,Severe depression
+Krishnaveni,17,Female,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,<979,Lower (<5),Rural,Extended,19,7,13,7,11,2,40,Borderline clinical depression
+Narmada,17,Female,Class 12,Hindu,High school,Middle school,Skilled,<979,Upper lower (5-10),Rural,Nuclear,14,7,7,9,10,1,34,Mild mood disturbances
+Anitha,17,Female,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,979-2936,Upper lower (5-10),Rural,Extended,25,8,10,7,9,2,36,Moderate depression
+B Srilekha,17,Female,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,<979,Upper lower (5-10),Rural,Extended,36,7,8,5,6,4,30,Severe depression
+G Anuradha,16,Female,Class 12,Hindu,Primary school,Primary school,Clerical/Shop Owner/Farmer,<979,Upper lower (5-10),Rural,Extended,23,6,8,5,7,4,30,Moderate depression
+Laxmi,17,Female,Class 12,Hindu,Illiterate,Primary school,Clerical/Shop Owner/Farmer,.>19575,Upper middle (16-25),Rural,Extended,37,9,9,6,7,4,35,Severe depression
+Vasatwika,17,Female,Class 12,Hindu,High school,Plus two/Post High School/Diploma,Semi Professional,979-2936,Lower middle (11-15),Rural,Extended,24,10,7,7,5,1,30,Moderate depression
+Bhoomika,17,Female,Class 12,Hindu,Middle school,Middle school,Clerical/Shop Owner/Farmer,2936-4893,Lower middle (11-15),Rural,Extended,23,7,8,7,5,5,32,Moderate depression
+E V Kavitha,17,Female,Class 12,Hindu,Illiterate,Primary school,Skilled,2936-4893,Upper lower (5-10),Rural,Extended,23,7,8,10,7,3,35,Moderate depression
+G Vijay laxm,17,Female,Class 12,Hindu,Primary school,Primary school,Clerical/Shop Owner/Farmer,2936-4893,Upper lower (5-10),Rural,Extended,33,17,14,10,9,5,55,Severe depression
+Chandrakala,16,Female,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,2936-4893,Upper lower (5-10),Rural,Nuclear,23,13,14,8,8,3,46,Moderate depression
+Priyanka,17,Female,Class 12,Hindu,Primary school,High school,Semi skilled,4894-7322,Lower middle (11-15),Rural,Nuclear,32,6,12,6,13,1,38,Severe depression
+Sirisha,17,Female,Class 12,Hindu,Illiterate,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,2936-4893,Lower middle (11-15),Rural,Nuclear,20,8,9,9,5,2,33,Borderline clinical depression
+C Madhavi,17,Female,Class 12,Hindu,Illiterate,Primary school,Skilled,2936-4893,Upper lower (5-10),Rural,Joint,38,13,14,10,11,7,55,Severe depression
+Mohd Shakir,17,Male,Class 12,Muslim,Primary school,High school,Unemployed,<979,Lower (<5),Rural,Nuclear,24,3,6,2,1,1,13,Moderate depression
+C Shashikant,18,Male,Class 12,Hindu,High school,High school,Clerical/Shop Owner/Farmer,2936-4893,Lower middle (11-15),Rural,Joint,17,6,6,2,1,1,16,Borderline clinical depression
+Mohd Wasim C,17,Male,Class 12,Muslim,Primary school,High school,Clerical/Shop Owner/Farmer,<979,Upper lower (5-10),Rural,Nuclear,8,3,8,4,2,1,18,These ups n downs normal
+Asia Begum,17,Female,Class 12,Muslim,Illiterate,Illiterate,Semi skilled,979-2936,Upper lower (5-10),Rural,Nuclear,20,4,11,5,9,1,30,Borderline clinical depression
+Ashamma,18,Female,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,28,11,5,10,7,1,34,Moderate depression
+Susmitha,17,Female,Class 12,Hindu,High school,Plus two/Post High School/Diploma,Semi skilled,2936-4893,Lower middle (11-15),Rural,Nuclear,6,7,5,2,6,1,21,These ups n downs normal
+P Tirupatamm,17,Female,Class 12,Hindu,Illiterate,High school,Semi skilled,4894-7322,Lower middle (11-15),Rural,Nuclear,26,11,8,8,3,4,34,Moderate depression
+T Laxmi char,16,Female,Class 12,Hindu,Illiterate,Illiterate,Semi skilled,979-2936,Upper lower (5-10),Rural,Nuclear,30,19,12,8,8,2,49,Moderate depression
+K Amareswari,17,Female,Class 12,Hindu,Illiterate,Primary school,Clerical/Shop Owner/Farmer,4894-7322,Upper lower (5-10),Rural,Nuclear,21,7,9,2,8,2,28,Moderate depression
+Sujatha,17,Female,Class 12,Hindu,Primary school,Primary school,Semi skilled,979-2936,Upper lower (5-10),Rural,Nuclear,34,6,5,7,7,6,31,Severe depression
+Jyotirmai,17,Female,Class 12,Hindu,Middle school,High school,Semi Professional,4894-7322,Lower middle (11-15),Rural,Extended,20,9,10,13,5,4,41,Borderline clinical depression
+M Kavitha,17,Female,Class 12,Hindu,Primary school,Primary school,Skilled,<979,Upper lower (5-10),Rural,Nuclear,25,6,7,3,6,3,25,Moderate depression
+B Narmada,16,Female,Class 12,Hindu,Primary school,Primary school,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,33,11,7,5,5,3,31,Severe depression
+S Bheemeswar,16,Female,Class 12,Hindu,Illiterate,Illiterate,Unemployed,979-2936,Lower (<5),Rural,Nuclear,29,1,5,4,4,2,16,Moderate depression
+T sabitha,16,Female,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,2936-4893,Upper lower (5-10),Rural,Nuclear,26,14,10,9,10,5,48,Moderate depression
+K Akhil,17,Male,Class 12,Hindu,Graduate/PG,Graduate/PG,Professional,.>19575,Upper (26-29),Rural,Nuclear,22,4,7,3,6,4,24,Moderate depression
+N Sharath ku,17,Male,Class 12,Hindu,Illiterate,High school,Semi skilled,979-2936,Upper lower (5-10),Rural,Nuclear,26,9,11,8,8,3,39,Moderate depression
+T Chennakesa,17,Male,Class 12,Hindu,Illiterate,High school,Clerical/Shop Owner/Farmer,979-2936,Lower middle (11-15),Rural,Extended,40,3,11,5,7,4,30,Severe depression
+N Anajaneyul,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,<979,Upper lower (5-10),Rural,Extended,42,5,12,3,5,1,26,extreme depression
+T Buggappa,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,<979,Upper lower (5-10),Rural,Nuclear,32,6,10,2,9,2,29,Severe depression
+N Sunder nai,17,Male,Class 12,Hindu,Illiterate,Illiterate,Skilled,<979,Upper lower (5-10),Rural,Nuclear,37,2,11,4,6,3,26,Severe depression
+N Sailu,17,Male,Class 12,Hindu,Primary school,High school,Clerical/Shop Owner/Farmer,979-2936,Lower middle (11-15),Rural,Nuclear,13,8,10,6,7,3,34,Mild mood disturbances
+Vijay kumar,17,Male,Class 12,Hindu,Primary school,High school,Clerical/Shop Owner/Farmer,979-2936,Lower middle (11-15),Rural,Joint,10,8,5,4,7,3,27,These ups n downs normal
+T Nagamani,16,Female,Class 12,Hindu,Illiterate,Illiterate,Semi skilled,2936-4893,Upper lower (5-10),Rural,Nuclear,26,7,10,9,8,4,38,Moderate depression
+B Manisha,17,Female,Class 12,Hindu,High school,High school,Semi skilled,979-2936,Lower middle (11-15),Rural,Nuclear,35,8,10,8,11,4,41,Severe depression
+C Suresh,17,Male,Class 12,Hindu,High school,Primary school,Clerical/Shop Owner/Farmer,9788-19574,Upper middle (16-25),Rural,Extended,34,7,3,3,4,1,18,Severe depression
+S Balaraj,18,Male,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,979-2936,Upper lower (5-10),Rural,Nuclear,31,4,6,5,5,2,22,Severe depression
+G Bajarang,18,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Joint,23,2,7,1,6,1,17,Moderate depression
+B Shekhar,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Extended,25,4,10,1,9,2,26,Moderate depression
+K Siva kumar,18,Male,Class 12,Hindu,Primary school,Middle school,Skilled,979-2936,Upper lower (5-10),Rural,Joint,20,10,10,5,6,3,34,Borderline clinical depression
+A Siddappa,16,Male,Class 12,Hindu,Graduate/PG,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Joint,34,10,7,5,5,1,28,Severe depression
+K Venkatesh,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,34,9,6,6,4,3,28,Severe depression
+K Anitha,18,Female,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,<979,Lower (<5),Rural,Extended,30,9,7,6,6,2,30,Moderate depression
+K M  Sirisha,17,Female,Class 12,Hindu,Primary school,High school,Clerical/Shop Owner/Farmer,7323-9787,Lower middle (11-15),Rural,Extended,25,10,6,10,8,0,34,Moderate depression
+M Vaishnavi,17,Female,Class 12,Hindu,Plus two/Post High School/Diploma,Graduate/PG,Semi Professional,2936-4893,Lower middle (11-15),Rural,Nuclear,8,2,5,4,6,0,17,These ups n downs normal
+Sushma,17,Female,Class 12,Hindu,Primary school,High school,Skilled,7323-9787,Lower middle (11-15),Rural,Joint,17,10,7,3,3,3,26,Borderline clinical depression
+P Aswini,17,Female,Class 12,Hindu,Illiterate,Middle school,Skilled,4894-7322,Lower middle (11-15),Rural,Nuclear,15,5,6,3,5,2,21,Mild mood disturbances
+G Venkatesh,17,Male,Class 12,Hindu,High school,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,2936-4893,Lower middle (11-15),Rural,Extended,19,4,5,1,0,4,14,Borderline clinical depression
+P Basnth kum,17,Male,Class 12,Hindu,Middle school,High school,Clerical/Shop Owner/Farmer,979-2936,Lower middle (11-15),Rural,Nuclear,20,7,6,4,2,5,24,Borderline clinical depression
+Kosgi Sriniv,17,Male,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,979-2936,Upper lower (5-10),Rural,Extended,20,9,8,2,4,2,25,Borderline clinical depression
+Narsappa,16,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,30,4,3,4,5,1,17,Moderate depression
+M Bhaskar,16,Male,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,2936-4893,Upper lower (5-10),Rural,Nuclear,32,4,3,3,5,1,16,Severe depression
+D Mahipal,18,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,2936-4893,Upper lower (5-10),Rural,Extended,23,5,6,4,2,2,19,Moderate depression
+P Manohar,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,2936-4893,Upper lower (5-10),Rural,Extended,13,2,4,1,2,2,11,Mild mood disturbances
+P Akshay,17,Male,Class 12,Hindu,High school,Graduate/PG,Professional,9788-19574,Upper (26-29),Rural,Extended,14,7,7,4,5,1,24,Mild mood disturbances
+K Harish kum,18,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,4894-7322,Upper lower (5-10),Rural,Joint,29,12,11,5,4,2,34,Moderate depression
+S Narsimhulu,18,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,29,2,6,0,7,2,17,Moderate depression
+Laxman Naik,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,4894-7322,Upper lower (5-10),Rural,Nuclear,29,9,8,9,6,5,37,Moderate depression
+S Veeresh,18,Male,Class 12,Hindu,Middle school,High school,Clerical/Shop Owner/Farmer,7323-9787,Lower middle (11-15),Rural,Nuclear,20,11,6,7,8,4,36,Borderline clinical depression
+K Sivashanka,17,Male,Class 12,Hindu,High school,Graduate/PG,Semi Professional,.>19575,Upper middle (16-25),Rural,Joint,3,3,1,0,1,0,5,These ups n downs normal
+B Amulya,17,Female,Class 12,Hindu,Primary school,High school,Semi skilled,<979,Upper lower (5-10),Rural,Nuclear,9,5,8,9,7,2,31,These ups n downs normal
+N Sirisha,17,Female,Class 12,Hindu,Illiterate,Middle school,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,14,13,11,8,6,4,42,Mild mood disturbances
+A Kaveri,16,Female,Class 12,Hindu,Illiterate,Middle school,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,25,11,9,5,5,3,33,Moderate depression
+M Laxmi,17,Female,Class 12,Hindu,Illiterate,Primary school,Clerical/Shop Owner/Farmer,<979,Upper lower (5-10),Rural,Joint,22,5,9,5,4,2,25,Moderate depression
+Aruna,17,Female,Class 12,Hindu,Middle school,High school,Clerical/Shop Owner/Farmer,979-2936,Lower middle (11-15),Rural,Nuclear,21,5,11,8,5,3,32,Moderate depression
+Raju,19,Male,Class 12,Hindu,Primary school,Illiterate,Unemployed,<979,Lower (<5),Rural,Extended,28,4,5,6,6,2,23,Moderate depression
+T Vaijayanth,18,Female,Class 12,Hindu,Illiterate,Middle school,Skilled,979-2936,Upper lower (5-10),Rural,Nuclear,27,14,12,11,6,2,45,Moderate depression
+K Chandrasek,16,Male,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,979-2936,Upper lower (5-10),Rural,Nuclear,17,9,9,2,5,2,27,Borderline clinical depression
+Sridhar,17,Male,Class 12,Hindu,Primary school,High school,Unemployed,4894-7322,Upper lower (5-10),Rural,Joint,11,7,4,2,5,1,19,Mild mood disturbances
+K Chandrsekh,17,Male,Class 12,Hindu,Illiterate,Illiterate,Unskilled worker,979-2936,Upper lower (5-10),Rural,Nuclear,25,6,8,4,4,2,24,Moderate depression
+Sana aultana,17,Female,Class 12,Muslim,High school,High school,Clerical/Shop Owner/Farmer,9788-19574,Upper middle (16-25),Rural,Nuclear,21,3,10,10,14,3,40,Moderate depression
+Ayesha Qayyu,16,Female,Class 12,Muslim,Graduate/PG,Plus two/Post High School/Diploma,Professional,.>19575,Upper (26-29),Rural,Nuclear,22,11,12,5,9,0,37,Moderate depression
+A Tejawini,17,Female,Class 12,Hindu,High school,High school,Skilled,2936-4893,Lower middle (11-15),Rural,Nuclear,27,15,12,10,8,1,46,Moderate depression
+Bharathi,17,Female,Class 12,Hindu,Illiterate,High school,Clerical/Shop Owner/Farmer,<979,Upper lower (5-10),Rural,Extended,29,7,18,6,6,3,40,Moderate depression
+Tabassum Fat,17,Female,Class 12,Muslim,High school,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,4894-7322,Lower middle (11-15),Rural,Nuclear,22,5,5,7,5,1,23,Moderate depression
+Varsha Howji,17,Female,Class 12,Hindu,High school,Plus two/Post High School/Diploma,Skilled,7323-9787,Lower middle (11-15),Rural,Joint,13,0,6,4,4,2,16,Mild mood disturbances
+Mohd Aqeel,17,Male,Class 12,Muslim,Plus two/Post High School/Diploma,Plus two/Post High School/Diploma,Professional,9788-19574,Upper middle (16-25),Rural,Nuclear,0,1,1,3,3,1,9,These ups n downs normal
+Md Mustafa,17,Male,Class 12,Muslim,Illiterate,Illiterate,Unemployed,979-2936,Lower (<5),Rural,Nuclear,3,3,1,4,4,3,15,These ups n downs normal
+M Srisailam,18,Male,Class 12,Hindu,Illiterate,Illiterate,Unemployed,979-2936,Lower (<5),Rural,Nuclear,1,2,1,2,3,3,11,These ups n downs normal
+Mohd Azharud,17,Male,Class 12,Muslim,Primary school,Illiterate,Unskilled worker,4894-7322,Upper lower (5-10),Rural,Joint,5,6,5,7,7,2,27,These ups n downs normal
+Abdul Fareed,18,Male,Class 12,Muslim,Primary school,Illiterate,Unskilled worker,4894-7322,Upper lower (5-10),Rural,Joint,7,7,5,1,4,2,19,These ups n downs normal
+Sana ullah k,17,Male,Class 12,Muslim,Primary school,Illiterate,Unskilled worker,2936-4893,Upper lower (5-10),Rural,Joint,11,5,4,1,4,1,15,Mild mood disturbances
+Aqeeb Javeed,18,Male,Class 12,Muslim,Middle school,High school,Clerical/Shop Owner/Farmer,4894-7322,Lower middle (11-15),Rural,Extended,27,9,11,8,9,4,41,Moderate depression
+Md Rizwan,17,Male,Class 12,Muslim,High school,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,4894-7322,Upper middle (16-25),Rural,Joint,31,1,5,3,0,5,14,Severe depression
+Md Mansoor b,17,Male,Class 12,Muslim,Illiterate,High school,Skilled,979-2936,Upper lower (5-10),Rural,Joint,23,1,1,2,5,5,14,Moderate depression
+M Vajpayee,17,Male,Class 12,Hindu,Illiterate,High school,Semi Professional,4894-7322,Lower middle (11-15),Rural,Nuclear,18,6,11,4,2,0,23,Borderline clinical depression
+B Hanumanth,18,Male,Class 12,Hindu,Illiterate,Primary school,Clerical/Shop Owner/Farmer,2936-4893,Upper lower (5-10),Rural,Nuclear,25,3,9,3,4,0,19,Moderate depression
+Y Sree chara,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,23,11,8,4,6,1,30,Moderate depression
+S Hariprasad,17,Male,Class 12,Hindu,Illiterate,Illiterate,Skilled,979-2936,Upper lower (5-10),Rural,Joint,15,8,6,7,4,2,27,Mild mood disturbances
+G Anuradha,18,Female,Class 12,Hindu,Primary school,Primary school,Skilled,979-2936,Upper lower (5-10),Rural,Nuclear,27,7,7,12,8,2,36,Moderate depression
+L Soundarya,17,Female,Class 12,Hindu,Primary school,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,979-2936,Lower middle (11-15),Rural,Joint,24,8,10,8,12,0,38,Moderate depression
+N Nikhith,17,Female,Class 12,Hindu,Plus two/Post High School/Diploma,Professional,Professional,.>19575,Upper (26-29),Rural,Extended,20,8,8,10,6,1,33,Borderline clinical depression
+Shazia Masro,16,Female,Class 12,Muslim,High school,Graduate/PG,Semi Professional,2936-4893,Lower middle (11-15),Rural,Nuclear,22,6,10,11,13,2,42,Moderate depression
+Priyanka,17,Female,Class 12,Hindu,Middle school,Middle school,Skilled,4894-7322,Lower middle (11-15),Rural,Nuclear,30,10,15,9,10,4,48,Moderate depression
+A Vinitha,17,Female,Class 12,Hindu,Middle school,High school,Clerical/Shop Owner/Farmer,2936-4893,Lower middle (11-15),Rural,Nuclear,20,11,14,6,7,3,41,Borderline clinical depression
+Md Salman,17,Male,Class 12,Muslim,High school,Middle school,Skilled,2936-4893,Upper lower (5-10),Rural,Nuclear,5,6,3,4,2,1,16,These ups n downs normal
+K Gurunath,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,<979,Upper lower (5-10),Rural,Extended,21,8,10,9,9,1,37,Moderate depression
+K Suresh,18,Male,Class 12,Hindu,Middle school,Primary school,Unemployed,2936-4893,Upper lower (5-10),Rural,Nuclear,4,7,3,1,7,1,19,These ups n downs normal
+Y Mahesh,17,Male,Class 12,Hindu,Plus two/Post High School/Diploma,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,4894-7322,Lower middle (11-15),Rural,Nuclear,21,7,8,1,4,1,21,Moderate depression
+Bhaskar,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,27,11,8,4,12,5,40,Moderate depression
+B Nikhitha,17,Female,Class 12,Hindu,High school,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,2936-4893,Lower middle (11-15),Rural,Joint,24,11,9,12,13,2,47,Moderate depression
+K Srisudha,17,Female,Class 12,Hindu,Graduate/PG,Graduate/PG,Semi Professional,2936-4893,Lower middle (11-15),Rural,Extended,27,9,9,9,11,3,41,Moderate depression
+K Bhargavi,16,Female,Class 12,Hindu,Illiterate,Primary school,Clerical/Shop Owner/Farmer,7323-9787,Lower middle (11-15),Rural,Joint,23,3,11,10,10,2,36,Moderate depression
+E Prabhavath,16,Female,Class 12,Hindu,High school,High school,Unskilled worker,2936-4893,Upper lower (5-10),Rural,Nuclear,23,6,6,8,12,1,33,Moderate depression
+Chandravadan,16,Female,Class 12,Hindu,High school,Middle school,Clerical/Shop Owner/Farmer,2936-4893,Lower middle (11-15),Rural,Joint,34,9,16,10,14,4,53,Severe depression
+Geetha yadav,17,Female,Class 12,Hindu,Illiterate,High school,Clerical/Shop Owner/Farmer,979-2936,Lower middle (11-15),Rural,Nuclear,30,12,13,12,14,3,54,Moderate depression
+K Naveena,17,Female,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,<979,Upper lower (5-10),Rural,Nuclear,24,13,12,7,7,2,41,Moderate depression
+P Aruna,18,Female,Class 12,Hindu,Illiterate,Middle school,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,46,6,15,7,9,4,41,extreme depression
+Bharathi cha,17,Female,Class 12,Hindu,Primary school,High school,Unemployed,2936-4893,Upper lower (5-10),Rural,Nuclear,29,7,8,9,7,5,36,Moderate depression
+Sahana edke,16,Female,Class 12,Hindu,Plus two/Post High School/Diploma,Graduate/PG,Professional,9788-19574,Upper (26-29),Rural,Nuclear,26,8,10,10,7,1,36,Moderate depression
+Duwa Begum,16,Female,Class 12,Muslim,High school,Graduate/PG,Semi Professional,2936-4893,Lower middle (11-15),Rural,Nuclear,26,7,11,6,12,2,38,Moderate depression
+A Bhavitha,16,Female,Class 12,Hindu,Plus two/Post High School/Diploma,Professional,Professional,9788-19574,Upper (26-29),Rural,Joint,26,13,12,10,11,0,46,Moderate depression
+M Anil kumar,17,Male,Class 12,Hindu,Illiterate,Illiterate,Clerical/Shop Owner/Farmer,979-2936,Upper lower (5-10),Rural,Nuclear,16,9,9,8,9,3,38,Mild mood disturbances
+D Saiprakash,17,Male,Class 12,Hindu,Primary school,High school,Skilled,7323-9787,Lower middle (11-15),Rural,Nuclear,10,12,10,7,4,3,36,These ups n downs normal
+Hameed,17,Male,Class 12,Muslim,Plus two/Post High School/Diploma,Graduate/PG,Semi Professional,2936-4893,Lower middle (11-15),Rural,Extended,2,3,4,5,6,3,21,These ups n downs normal
+Mohd Aleem,18,Male,Class 12,Muslim,Illiterate,High school,Skilled,9788-19574,Lower middle (11-15),Rural,Joint,16,6,7,9,6,4,32,Mild mood disturbances
+Shareef ahme,17,Male,Class 12,Muslim,Illiterate,Primary school,Skilled,7323-9787,Lower middle (11-15),Rural,Nuclear,10,9,2,3,5,2,21,These ups n downs normal
+M Narsimhulu,17,Male,Class 12,Hindu,High school,Plus two/Post High School/Diploma,Skilled,4894-7322,Lower middle (11-15),Rural,Extended,32,9,12,4,9,6,40,Severe depression
+Mirza Nawab,17,Male,Class 12,Muslim,Illiterate,Graduate/PG,Professional,9788-19574,Upper (26-29),Rural,Nuclear,10,5,3,8,7,3,26,These ups n downs normal
+G Naveen kum,17,Male,Class 12,Hindu,High school,Plus two/Post High School/Diploma,Clerical/Shop Owner/Farmer,9788-19574,Upper middle (16-25),Rural,Joint,18,5,6,4,2,5,22,Borderline clinical depression
+P Vijaya lax,17,Female,Class 12,Hindu,Illiterate,Illiterate,Unemployed,979-2936,Lower (<5),Rural,Nuclear,13,6,10,13,13,0,42,Mild mood disturbances
+Padma,17,Female,Class 12,Hindu,Illiterate,Illiterate,Unemployed,979-2936,Lower (<5),Rural,Nuclear,17,6,7,9,13,2,37,Borderline clinical depression

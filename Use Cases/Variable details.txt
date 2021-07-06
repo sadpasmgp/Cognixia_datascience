@@ -1,0 +1,105 @@
+Var     Label 	
+Q1	Name
+Q2	Age
+Q3	Gender
+Q4	Educational status
+Q5	Religion
+Q6	Mothers education
+Q7	Education of family head
+Q8	Occupation of family head
+Q9	Family income
+Q10	Socio economic status:  add up score from 7,8,9
+Q11	Place of residence
+Q12	Type of family
+BDI_Sum	BDI Sum Score
+PN_Sum	Panic Disorder
+GD_Sum	Generalized Anxiety Disorder
+SP_Sum	Separation Anxiety
+SC_Sum	Social Anxiety Disorder
+SH_Sum	Significant School Avoidance
+TOTAL_SCARED	Total Scared
+BDI_Range	BDI_Range
+
+
+
+
+
+Gender
+1	Male
+2	Female
+	 
+	
+	
+	Educational status
+1	Class 12
+2	UG 1st year
+3	UG 2nd year
+
+
+	Religion
+1	Hindu
+2	Muslim
+3       Cristian
+	 
+	
+	
+	Mothers education
+1	Illiterate
+2	Primary school
+3	Middle school
+4	High school
+5	Plus two/Post High School/Diploma
+6	Graduate/PG
+	 
+	
+	
+	Education of family head
+1	Illiterate
+2	Primary school
+3	Middle school
+4	High school
+5	Plus two/Post High School/Diploma
+6	Graduate/PG
+7	Professional
+	 
+	
+	
+	Occupation of family head
+1	Unemployed
+2	Unskilled worker
+3	Semi skilled
+4	Skilled
+5	Clerical/Shop Owner/Farmer
+6	Semi Professional
+7	Professional
+	 
+	
+	
+	Family income
+1	<979
+2	979-2936
+3	2936-4893
+4	4894-7322
+5	7323-9787
+6	9788-19574
+7	.>19575
+	 
+	
+	
+	Socio economic status:  add up score from 7,8,9
+1	Upper (26-29)
+2	Upper middle (16-25)
+3	Lower middle (11-15)
+4	Upper lower (5-10)
+5	Lower (<5)
+	 
+	
+	
+	Place of residence
+1	Rural
+	
+	
+	Type of family
+1	Nuclear
+2	Extended
+3	Joint
