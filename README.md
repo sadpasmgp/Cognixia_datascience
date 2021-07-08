@@ -1,2 +1,3 @@
-# Cognixia_datascience
-Cognixia datascience training course 
+# cognixia
+
+In this repo we will solve many ML problems
