@@ -1,0 +1,6 @@
+<form action="{{ url_for('predict')}}"method="post">
+  <label for="sal">Enter experience (yrs): </label>
+  <input type="number" id="sal" name="sal"><br><br>
+  <input type="submit" value="Predict Salary">
+</form>
+{{ prediction_text }}
